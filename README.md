@@ -7,4 +7,7 @@ Daftar tugas / branch
 6. Tugas-php
 7. Tugas-finalProject
 Daftar perintah GiT
-…
+git branch "nama branch" // membuat branch
+git checkout "nama branch" // mengganti ke branch yang ingin di pilih
+git add . // memilih file
+git commit -m "bebas isi apa" 
